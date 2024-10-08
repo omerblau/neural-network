@@ -1,0 +1,837 @@
+Testing with hidden_layers=[64], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:09<00:00, 7182.60it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 94.60%
+
+
+Training Progress: 100%
+480000/480000 [01:08<00:00, 7131.60it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 94.97%
+
+
+Training Progress: 100%
+1440000/1440000 [03:23<00:00, 7191.20it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 95.30%
+
+
+Testing with hidden_layers=[64], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:07<00:00, 7151.90it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.38%
+
+
+Training Progress: 100%
+480000/480000 [01:07<00:00, 7139.65it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.58%
+
+
+Training Progress: 100%
+1440000/1440000 [03:24<00:00, 7147.16it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.78%
+
+
+Testing with hidden_layers=[64], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:08<00:00, 7162.21it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.33%
+
+
+Training Progress: 100%
+480000/480000 [01:08<00:00, 7134.53it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.92%
+
+
+Training Progress: 100%
+1440000/1440000 [03:23<00:00, 7158.91it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.69%
+
+
+Testing with hidden_layers=[64], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:07<00:00, 7191.44it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.07%
+
+
+Training Progress: 100%
+480000/480000 [01:07<00:00, 7175.32it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.86%
+
+
+Training Progress: 100%
+1440000/1440000 [03:22<00:00, 7165.08it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.42%
+
+
+Testing with hidden_layers=[128], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:38<00:00, 4925.27it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 95.06%
+
+
+Training Progress: 100%
+480000/480000 [01:38<00:00, 4946.50it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 95.03%
+
+
+Training Progress: 100%
+1440000/1440000 [04:55<00:00, 4904.54it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.10%
+
+
+Testing with hidden_layers=[128], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:38<00:00, 4916.87it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.81%
+
+
+Training Progress: 100%
+480000/480000 [01:38<00:00, 4894.12it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.97%
+
+
+Training Progress: 100%
+1440000/1440000 [04:55<00:00, 4933.00it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.06%
+
+
+Testing with hidden_layers=[128], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:38<00:00, 4930.91it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.55%
+
+
+Training Progress: 100%
+480000/480000 [01:38<00:00, 4932.61it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.12%
+
+
+Training Progress: 100%
+1440000/1440000 [04:55<00:00, 4931.03it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.13%
+
+
+Testing with hidden_layers=[128], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:40<00:00, 4844.03it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.17%
+
+
+Training Progress: 100%
+480000/480000 [01:39<00:00, 4873.35it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.98%
+
+
+Training Progress: 100%
+1440000/1440000 [05:01<00:00, 4861.33it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.17%
+
+
+Testing with hidden_layers=[150], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:46<00:00, 4558.81it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 95.72%
+
+
+Training Progress: 100%
+480000/480000 [01:46<00:00, 4503.11it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 95.93%
+
+
+Training Progress: 100%
+1440000/1440000 [05:19<00:00, 4581.53it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.27%
+
+
+Testing with hidden_layers=[150], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:43<00:00, 4704.73it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.78%
+
+
+Training Progress: 100%
+480000/480000 [01:43<00:00, 4707.18it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.07%
+
+
+Training Progress: 100%
+1440000/1440000 [05:09<00:00, 4693.62it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.10%
+
+
+Testing with hidden_layers=[150], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:46<00:00, 4572.14it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.80%
+
+
+Training Progress: 100%
+480000/480000 [01:46<00:00, 4570.44it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.23%
+
+
+Training Progress: 100%
+1440000/1440000 [05:20<00:00, 4532.24it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.22%
+
+
+Testing with hidden_layers=[150], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:43<00:00, 4700.96it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.25%
+
+
+Training Progress: 100%
+480000/480000 [01:43<00:00, 4711.59it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.11%
+
+
+Training Progress: 100%
+1440000/1440000 [05:09<00:00, 4705.49it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.20%
+
+
+Testing with hidden_layers=[200], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:01<00:00, 1612.57it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 95.40%
+
+
+Training Progress: 100%
+480000/480000 [05:00<00:00, 1585.54it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 95.87%
+
+
+Training Progress: 100%
+1440000/1440000 [16:21<00:00, 1600.72it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.38%
+
+
+Testing with hidden_layers=[200], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:12<00:00, 1549.28it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 98.07%
+
+
+Training Progress: 100%
+480000/480000 [05:07<00:00, 1453.64it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.22%
+
+
+Training Progress: 100%
+1440000/1440000 [15:45<00:00, 1537.06it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.26%
+
+
+Testing with hidden_layers=[200], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:21<00:00, 1507.10it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.88%
+
+
+Training Progress: 100%
+480000/480000 [05:22<00:00, 1516.39it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.24%
+
+
+Training Progress: 100%
+1440000/1440000 [15:59<00:00, 1551.37it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.28%
+
+
+Testing with hidden_layers=[200], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:09<00:00, 1568.13it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.61%
+
+
+Training Progress: 100%
+480000/480000 [05:09<00:00, 1559.66it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.42%
+
+
+Training Progress: 100%
+1440000/1440000 [15:28<00:00, 1561.49it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.40%
+
+
+Testing with hidden_layers=[250], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [06:13<00:00, 1311.21it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 95.53%
+
+
+Training Progress: 100%
+480000/480000 [06:11<00:00, 1242.61it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 95.88%
+
+
+Training Progress: 100%
+1440000/1440000 [18:30<00:00, 1286.45it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.43%
+
+
+Testing with hidden_layers=[250], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [06:26<00:00, 1259.33it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 98.00%
+
+
+Training Progress: 100%
+480000/480000 [06:26<00:00, 1273.19it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.25%
+
+
+Training Progress: 100%
+1440000/1440000 [19:10<00:00, 1292.54it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.22%
+
+
+Testing with hidden_layers=[250], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [06:11<00:00, 1305.33it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 98.02%
+
+
+Training Progress: 100%
+480000/480000 [06:11<00:00, 1330.70it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.32%
+
+
+Training Progress: 100%
+1440000/1440000 [18:29<00:00, 1304.59it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.35%
+
+
+Testing with hidden_layers=[250], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [06:25<00:00, 1254.08it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 98.04%
+
+
+Training Progress: 100%
+480000/480000 [06:27<00:00, 1263.78it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.29%
+
+
+Training Progress: 100%
+1440000/1440000 [19:17<00:00, 1279.70it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.27%
+
+
+Testing with hidden_layers=[64, 32], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:19<00:00, 6110.31it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 9.81%
+
+
+Training Progress: 100%
+480000/480000 [01:19<00:00, 6124.60it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 10.16%
+
+
+Training Progress: 100%
+1440000/1440000 [03:58<00:00, 6144.93it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 9.81%
+
+
+Testing with hidden_layers=[64, 32], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:19<00:00, 6093.47it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.67%
+
+
+Training Progress: 100%
+480000/480000 [01:19<00:00, 6080.27it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.77%
+
+
+Training Progress: 100%
+1440000/1440000 [03:58<00:00, 6114.44it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.04%
+
+
+Testing with hidden_layers=[64, 32], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:19<00:00, 5964.56it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.00%
+
+
+Training Progress: 100%
+480000/480000 [01:19<00:00, 6107.29it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.58%
+
+
+Training Progress: 100%
+1440000/1440000 [03:58<00:00, 6098.53it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.28%
+
+
+Testing with hidden_layers=[64, 32], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:19<00:00, 6115.63it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.34%
+
+
+Training Progress: 100%
+480000/480000 [01:19<00:00, 6027.67it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.29%
+
+
+Training Progress: 100%
+1440000/1440000 [03:58<00:00, 6127.01it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.23%
+
+
+Testing with hidden_layers=[128, 64], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:56<00:00, 4184.83it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 43.01%
+
+
+Training Progress: 100%
+480000/480000 [01:56<00:00, 4132.87it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 19.45%
+
+
+Training Progress: 100%
+1440000/1440000 [05:48<00:00, 4123.59it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 19.46%
+
+
+Testing with hidden_layers=[128, 64], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:56<00:00, 4142.82it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.50%
+
+
+Training Progress: 100%
+480000/480000 [01:56<00:00, 4118.80it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.48%
+
+
+Training Progress: 100%
+1440000/1440000 [05:49<00:00, 4183.03it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.52%
+
+
+Testing with hidden_layers=[128, 64], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:56<00:00, 4050.40it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.95%
+
+
+Training Progress: 100%
+480000/480000 [01:56<00:00, 4178.82it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.34%
+
+
+Training Progress: 100%
+1440000/1440000 [05:48<00:00, 4186.61it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.47%
+
+
+Testing with hidden_layers=[128, 64], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:56<00:00, 4141.21it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.14%
+
+
+Training Progress: 100%
+480000/480000 [01:56<00:00, 4162.61it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.07%
+
+
+Training Progress: 100%
+1440000/1440000 [05:49<00:00, 4174.92it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.78%
+
+
+Testing with hidden_layers=[200, 100], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:40<00:00, 1386.75it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 10.82%
+
+
+Training Progress: 100%
+480000/480000 [05:41<00:00, 1414.01it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 10.16%
+
+
+Training Progress: 100%
+1440000/1440000 [16:58<00:00, 1442.81it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 10.82%
+
+
+Testing with hidden_layers=[200, 100], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:36<00:00, 1480.88it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.64%
+
+
+Training Progress: 100%
+480000/480000 [05:38<00:00, 1443.11it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 98.33%
+
+
+Training Progress: 100%
+1440000/1440000 [16:50<00:00, 1454.85it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.41%
+
+
+Testing with hidden_layers=[200, 100], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:40<00:00, 1361.70it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.24%
+
+
+Training Progress: 100%
+480000/480000 [05:43<00:00, 1387.92it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.62%
+
+
+Training Progress: 100%
+1440000/1440000 [17:02<00:00, 1412.75it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.96%
+
+
+Testing with hidden_layers=[200, 100], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:37<00:00, 1423.78it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.81%
+
+
+Training Progress: 100%
+480000/480000 [05:38<00:00, 1418.98it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.35%
+
+
+Training Progress: 100%
+1440000/1440000 [16:57<00:00, 1448.57it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.83%
+
+
+Testing with hidden_layers=[64, 64], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:22<00:00, 5925.07it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 31.11%
+
+
+Training Progress: 100%
+480000/480000 [01:22<00:00, 5918.33it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 18.48%
+
+
+Training Progress: 100%
+1440000/1440000 [04:06<00:00, 5962.01it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 18.16%
+
+
+Testing with hidden_layers=[64, 64], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:22<00:00, 5962.17it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.06%
+
+
+Training Progress: 100%
+480000/480000 [01:22<00:00, 5971.42it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.94%
+
+
+Training Progress: 100%
+1440000/1440000 [04:05<00:00, 5874.26it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.02%
+
+
+Testing with hidden_layers=[64, 64], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:22<00:00, 5894.95it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.53%
+
+
+Training Progress: 100%
+480000/480000 [01:22<00:00, 5913.19it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 95.98%
+
+
+Training Progress: 100%
+1440000/1440000 [04:06<00:00, 5971.95it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.62%
+
+
+Testing with hidden_layers=[64, 64], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [01:22<00:00, 5936.30it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 95.95%
+
+
+Training Progress: 100%
+480000/480000 [01:22<00:00, 5915.18it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.47%
+
+
+Training Progress: 100%
+1440000/1440000 [04:05<00:00, 5959.29it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 95.43%
+
+
+Testing with hidden_layers=[128, 128], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [02:03<00:00, 3930.16it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 9.79%
+
+
+Training Progress: 100%
+480000/480000 [02:03<00:00, 3915.99it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 11.02%
+
+
+Training Progress: 100%
+1440000/1440000 [06:09<00:00, 3932.47it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 11.02%
+
+
+Testing with hidden_layers=[128, 128], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [02:03<00:00, 3946.72it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.37%
+
+
+Training Progress: 100%
+480000/480000 [02:03<00:00, 3945.13it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.82%
+
+
+Training Progress: 100%
+1440000/1440000 [06:08<00:00, 3905.25it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.40%
+
+
+Testing with hidden_layers=[128, 128], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [02:03<00:00, 3952.20it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.22%
+
+
+Training Progress: 100%
+480000/480000 [02:03<00:00, 3962.58it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.21%
+
+
+Training Progress: 100%
+1440000/1440000 [06:09<00:00, 3907.79it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.57%
+
+
+Testing with hidden_layers=[128, 128], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [02:03<00:00, 3957.34it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.08%
+
+
+Training Progress: 100%
+480000/480000 [02:03<00:00, 3955.57it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.84%
+
+
+Training Progress: 100%
+1440000/1440000 [06:09<00:00, 3919.61it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 96.30%
+
+
+Testing with hidden_layers=[200, 50], learning_rate=0.05, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:29<00:00, 1478.76it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 10.16%
+
+
+Training Progress: 100%
+480000/480000 [05:29<00:00, 1463.24it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 9.80%
+
+
+Training Progress: 100%
+1440000/1440000 [16:36<00:00, 1460.29it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 10.82%
+
+
+Testing with hidden_layers=[200, 50], learning_rate=0.01, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:43<00:00, 1446.78it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.92%
+
+
+Training Progress: 100%
+480000/480000 [05:43<00:00, 1434.78it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.20%
+
+
+Training Progress: 100%
+1440000/1440000 [17:21<00:00, 1222.18it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 98.32%
+
+
+Testing with hidden_layers=[200, 50], learning_rate=0.015, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:33<00:00, 1511.67it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 97.45%
+
+
+Training Progress: 100%
+480000/480000 [05:27<00:00, 1454.07it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 97.77%
+
+
+Training Progress: 100%
+1440000/1440000 [16:43<00:00, 1386.77it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.31%
+
+
+Testing with hidden_layers=[200, 50], learning_rate=0.02, epochs_options=[10, 20, 50]
+Training Progress: 100%
+480000/480000 [05:45<00:00, 1461.79it/s]
+Training complete.
+Validation Accuracy after 10 epochs: 96.47%
+
+
+Training Progress: 100%
+480000/480000 [05:42<00:00, 1325.40it/s]
+Training complete.
+Validation Accuracy after 20 epochs: 96.69%
+
+
+Training Progress: 100%
+1440000/1440000 [19:35<00:00, 1280.47it/s]
+Training complete.
+Validation Accuracy after 50 epochs: 97.02%
+
+
+Best Validation Accuracy: 98.42% with parameters: ([200], 0.02, 20)
