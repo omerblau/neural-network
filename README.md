@@ -38,7 +38,7 @@ The model is trained and tested on the MNIST dataset, starting from pre-processe
 
 You can run this project without any installation by using Google Colab:
 
-1. Click on the "Open In Colab" badge at the top of this README or use [this link](https://colab.research.google.com/github/omerblau/neural-network/blob/main/Neural_Network.ipynb).
+1. Click on the "Open In Colab" badge at the top of this README or clicker here  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerblau/neural-network/blob/main/Neural_Network.ipynb)
 
 2. The Jupyter Notebook will open in Google Colab, where you can run the code cells directly.
 
