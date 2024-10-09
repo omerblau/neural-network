@@ -61,10 +61,12 @@ If you prefer to run the code on your local machine, you will need to meet the f
 
 The project uses pre-processed MNIST data in CSV format to focus on the neural network training. The CSV files are large (the training set has 60,000 rows and 785 columns, totaling 47,100,000 cells).
 
-Download the data files from the following links:
+Download the data files directly to your computer using the following links:
 
-- **Training Data**: [MNIST-train.csv](https://drive.google.com/file/d/1I85Rsx7rN-iAqDlg4esurDoWeogwrF-N/view?usp=drive_link)
-- **Test Data**: [MNIST-test.csv](https://drive.google.com/file/d/1qPomi9_mzL51lZrheAvZjfn_ECJtlvyC/view?usp=drive_link)
+- **Training Data**: [Download MNIST-train.csv](https://drive.google.com/uc?export=download&id=1I85Rsx7rN-iAqDlg4esurDoWeogwrF-N)
+- **Test Data**: [Download MNIST-test.csv](https://drive.google.com/uc?export=download&id=1qPomi9_mzL51lZrheAvZjfn_ECJtlvyC)
+
+Place the downloaded CSV files in the project directory.
 
 Place the downloaded CSV files in the project directory.
 
