@@ -1,8 +1,11 @@
 # Neural Network
+<a href="https://colab.research.google.com/github/omerblau/neural-network/blob/main/Neural_Network.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+</a>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerblau/neural-network/blob/main/Neural_Network.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/omerblau/neural-network/HEAD)
+<a href="https://mybinder.org/v2/gh/omerblau/neural-network/HEAD" target="_blank">
+  <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+</a>
 
 ![License](https://img.shields.io/github/license/omerblau/neural-network?branch=main)
 
