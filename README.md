@@ -32,7 +32,7 @@ The model is trained and tested on the MNIST dataset, starting from pre-processe
 - **Detailed Documentation**: Provides step-by-step explanations in the accompanying Jupyter Notebook to help understand the training process and the neural network implementation.
 - **Data Files Provided**: Links to the pre-processed CSV files are provided for convenience.
 
-## Installation
+## Usage
 
 ### Running on Google Colab
 
@@ -61,12 +61,12 @@ If you prefer to run the code on your local machine, you will need to meet the f
 
 The project uses pre-processed MNIST data in CSV format to focus on the neural network training. The CSV files are large (the training set has 60,000 rows and 785 columns, totaling 47,100,000 cells).
 
-Download the data files directly to your computer using the following links:
+Download the data files directly to your computer using the following links (not required):
+
+*Note: To open this link in a new tab without leaving this page, you can right-click it and select "Open link in new tab," or hold down `Ctrl` (or `Cmd` on Mac) while clicking.*
 
 - **Training Data**: [Download MNIST-train.csv](https://drive.google.com/uc?export=download&id=1I85Rsx7rN-iAqDlg4esurDoWeogwrF-N)
 - **Test Data**: [Download MNIST-test.csv](https://drive.google.com/uc?export=download&id=1qPomi9_mzL51lZrheAvZjfn_ECJtlvyC)
-
-Place the downloaded CSV files in the project directory.
 
 ### Notes on Hyperparameter Tuning
 
