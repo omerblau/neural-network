@@ -1,7 +1,6 @@
 # Neural Network
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerblau/neural-network/blob/main/neural network.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerblau/neural-network/blob/main/Neural_Network.ipynb)
 
 ![License](https://img.shields.io/github/license/omerblau/neural-network)
 
