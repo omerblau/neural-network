@@ -2,9 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerblau/neural-network/blob/main/Neural_Network.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/omerblau/neural-network/HEAD)
-
-*Note: To open these links in a new tab without leaving this page, you can right-click them and select "Open link in new tab," or hold down `Ctrl` (or `Cmd` on Mac) while clicking.*
+*Note: To open this link in a new tab without leaving this page, you can right-click them and select "Open link in new tab," or hold down `Ctrl` (or `Cmd` on Mac) while clicking.*
 
 ![License](https://img.shields.io/github/license/omerblau/neural-network?branch=main)
 
