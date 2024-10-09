@@ -68,29 +68,6 @@ Download the data files directly to your computer using the following links:
 
 Place the downloaded CSV files in the project directory.
 
-Place the downloaded CSV files in the project directory.
-
-## Usage
-
-### Running the Jupyter Notebook on Google Colab
-
-1. Open the Jupyter Notebook in Google Colab:
-
-   - Click on the "Open In Colab" badge at the top of this README or use [this link](https://colab.research.google.com/github/omerblau/neural-network/blob/main/Neural_Network.ipynb).
-
-2. Follow the instructions in the notebook to run each cell sequentially.
-
-3. **All necessary dependencies are pre-installed in the Google Colab environment.**
-
-### Running Locally
-
-If you prefer to run the notebook locally:
-
-1. Open the Jupyter Notebook:
-  jupyter notebook Neural_Network.ipynb
-
-2. Follow the instructions in the notebook to run each cell sequentially.
-
 ### Notes on Hyperparameter Tuning
 
 - **Grid Search**: The grid search for hyperparameter tuning can take a significant amount of time (over 8 hours) due to the exhaustive search over multiple configurations.
